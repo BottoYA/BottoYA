@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BottoYA , a 20 years old starter programmer!
 - 👀 I’m interested in Learning new things and technology stuff!
 - 🌱 I’m currently learning Analysis and Systems development in college (FATEC) 
-- 💞️ I’ve learned the following languages: C+, Portugol (português estruturado) and am currently learning C# on Visual Studio!
+- 💞️ I’ve learned the following languages: C+ (on CodeBlocks), Portugol (português estruturado) and am currently learning C# on Visual Studio!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: i'm also very good at doing art!
 
