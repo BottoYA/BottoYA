@@ -1,6 +1,7 @@
 ## Welcome! 
 ## This profile is owned by: Amanda YB.✍️
   Hello! My name is Amanda Botto, i am 21 years old, studying Analisys and Systems Dev. at Fatec Guarulhos, in São Paulo (Brazil).
+  
   Olá! Meu nome é Amanda Botto, tenho 21 anos e estudo Análise e Desenvolvimento de Sistemas na Fatec Guarulhos (SP).
   
 📟 Contact me!
